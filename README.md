@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Welcome to the Language Centre of Tsinghua University
 
-You can use the [editor on GitHub](https://github.com/LCTU/events/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 关于召开公共外语与对外汉语教学改革与课程建设研讨会的通知
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+为加快培养“一精多会”、“一专多能”高素质国际化复合型人才，推进我校公共外语和对外汉语课程体系改革，优化课程教学内容，提高课程教学质量，语言教学中心决定召开首次公共外语与对外汉语教学改革与课程建设研讨会，现将有关事项通知如下：
 
-### Markdown
+一、会议时间、地点<br>
+时间：2019年1月22日至23日<br>
+地点：北京市九华山庄贵宾楼酒店<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+二、会议内容<br>
+（一）大会：主持人，王红利<br>
+1、彭刚处长宣读语言教学中心各部门负责人任用名单<br>
+2、彭刚处长讲话<br>
+3、苏芃副处长讲话<br>
+4、吴运新做工作报告<br>
+5、柏晓静介绍语言教学新技术方案<br>
 
-```markdown
-Syntax highlighted code block
+（二）分组研讨<br>
+1、本科生英语教研室<br>
+1）学术英语课程定位及建设：
++ 什么是学术英语?本科学术英语教什么?
++ 如何提升学生对学术英语课程的认同感?
++ 怎样让学术英语课程不枯燥?
++ 学术英语课程如何与中国英语能力量表（CSE）对接?
++ 学术英语听说课程优质资源?
 
-# Header 1
-## Header 2
-### Header 3
+2）英文通识课（目前部分限选课）课程定位：<br>
++ 与学校文化素质基地开设的通识课之异同与关系?
++ 英文通识类课课程如何助力理工科学生提升人文素养及全球胜任力?
++ 该类课程是否需要与CSE对接?
 
-- Bulleted
-- List
+3) 教育技术支持<br>
++ 读写类课程（含学术英语、语言文化、专项提高课程）需要哪些教育技术支持？
++ 听说类课程（含学术英语、语言文化、专项提高课程）需要哪些教育技术支持？
++ 哪些课程需要个性化的教育技术支持？
 
-1. Numbered
-2. List
+2、研究生英语教研室
+1）课程体系构建（硕博分合、课堂教学目标与能力量表对接）
+2）写作课教学质量提高手段
+3）通识课建设
 
-**Bold** and _Italic_ and `Code` text
+3、二外多语种教研室
+1）目标：讨论第二外国语在清华学生培养方案中的整体定位和终极目标。       
+2）课程：讨论各语种“课程结构-进阶-内容设置”预案。       
+3）更新：讨论课程名称、课程号及教材更新。       
+4）入门：讨论如何使学生在一门新语言入门阶段持续获得学习乐趣和成就感。
 
-[Link](url) and ![Image](src)
-```
+4、对外汉语教研室
+1）本研汉语课程体系优化
+2）新形势下如何继续保持、提高教学质量
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+三、参加人员
+教务处有关领导
+语言教学中心全体成员
 
-### Jekyll Themes
+联系人：刘苏，电话62794960，邮箱tept@tsinghua.edu.cn
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LCTU/events/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+清华大学语言教学中心
+2019.1.11
